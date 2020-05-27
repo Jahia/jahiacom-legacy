@@ -54,14 +54,14 @@
     <groupId>org.jahia.modules</groupId>
     <artifactId>jahiacom-legacy</artifactId>
     <name>jahiacom-legacy</name>
-    <version>2.0.0</version>
+    <version>2.0.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <description>This module define old component of the old jahia.com (canvas templates) still used on the academy</description>
     <scm>
         <connection>scm:git:git@github.com:Jahia/jahiacom-legacy.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/jahiacom-legacy.git</developerConnection>
         <url>https://github.com/Jahia/jahiacom-legacy</url>
-      <tag>jahiacom-legacy-2.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
     <properties>
         <jahia-module-signature>MCwCFDQUtxAlu0F54njd9zrQkUCZV36kAhQmHfNsiycmS4mea7jcYhhatQ/jfg==</jahia-module-signature>
